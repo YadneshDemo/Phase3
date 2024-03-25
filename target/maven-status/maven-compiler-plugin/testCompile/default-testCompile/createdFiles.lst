@@ -1,0 +1,13 @@
+RestAPI\PostRequestWithMap.class
+RestAPI\GetRequestWithParam.class
+RestAPI\DeleteRequest.class
+gitHub\DeleteRepo.class
+RestAPIBDD\APIOperationsTest.class
+RestAPI\XMLTest.class
+RestAPI\PostRequest.class
+RestApiXML\XMLTest.class
+RestAPI\PostRequestWithJsonFile.class
+gitHub\CreateRepo.class
+RestAPI\GetRequest.class
+RestAPI\PutRequest.class
+gitHub\GetAllRepo.class
